@@ -25,4 +25,4 @@ To create ATM System software that will meet the needs of the applicant and help
 ![Screenshot 2024-04-30 200336](https://github.com/ROHITJAIND/SOFTWARE-ENGINEERING/assets/118707073/7e6760d6-0780-444d-abc3-2ff2ea602eed)
 
 ### RESULT:
-Thus the ATMand banking System project was executed and the output was verified
+Thus the ATM and BANKING SYSYTEM project was executed and the output was verified.
